@@ -220,34 +220,9 @@ h2 {
     }
 }
 
-/* footer */
-
-footer {
-    height: auto;
-    background-color: black;
-    bottom: 0%;
-    left: 0;
-    right: 0;
-}
-
-.social-media {
-    text-align: center;
-}
-
-.social-media li {
-    display: inline;
-}
-
-.social-media i {
-    font-size: 270%;
-    color: white;
-    text-decoration: none;
-    margin: 2%;
-}
-
 /* publishing form */
 
-.form-holder {
+#form-holder {
     position: relative;
     width: 100%;
     display: inline-block;
@@ -307,5 +282,28 @@ footer {
     font-size: 17px;
 }
 
+/* footer */
 
+footer {
+    height: auto;
+    background-color: black;
+    bottom: 0%;
+    left: 0;
+    right: 0;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 270%;
+    color: white;
+    text-decoration: none;
+    margin: 2%;
+}
 
