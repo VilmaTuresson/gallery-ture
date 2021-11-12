@@ -66,6 +66,68 @@ body {
     border-bottom: 1px solid black;
 }
 
+/* media quaries for header */
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+    #logo h1 {
+        font-size: xx-large;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    #logo h1 {
+        font-size: xx-large;
+    }
+
+    #menu li a {
+        font-size: larger;
+    }
+
+    .logo_holder {
+        width: 40%;
+    }
+
+    .menu_holder {
+        width: 59%;
+    }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+    #logo h1 {
+        font-size: xx-large;
+    }
+
+    #menu li a {
+        font-size: x-large;
+    }
+
+    .logo_holder {
+        width: 40%;
+    }
+
+    .menu_holder {
+        width: 59%;
+    }
+}
+
+@media only screen and (min-width: 1201px) {
+    #logo h1 {
+        font-size: xxx-large;
+    }
+
+    #menu li a {
+        font-size: x-large;
+    }
+
+    .logo_holder {
+        width: 40%;
+    }
+
+    .menu_holder {
+        width: 59%;
+    }
+}
+
 /* photos */
 
 h2 {
