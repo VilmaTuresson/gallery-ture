@@ -7,9 +7,10 @@
 }
 
 body {
-    font-family: Poppins, sans-serif;
+    font-family: "Poppins", sans-serif;
     color: black;
     font-weight: 300;
+    overflow-x: hidden;
 }
 
 /* Header */
@@ -36,7 +37,7 @@ body {
 
 #logo h1 {
     color: black;
-    font-family: "Bodoni Moda", "sans-serif";
+    font-family: "Bodoni Moda", sans-serif;
     font-weight: 400;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -65,4 +66,38 @@ body {
 
 #menu li a:hover {
     border-bottom: 1px solid black;
+}
+
+/* photos */
+
+h2 {
+    color: black;
+    font-size: large;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+
+.image_holder {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    margin: 10px 0 10px 0;
+}
+
+.image_col {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    margin: 5px 0 5% 0;
+}
+
+.image {
+    position: relative;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    display: inline-block
 }
