@@ -66,7 +66,7 @@ body {
     border-bottom: 1px solid black;
 }
 
-/* media quaries for header */
+/* media queries for header */
 
 @media only screen and (min-width: 481px) and (max-width: 768px) {
     #logo h1 {
@@ -160,4 +160,62 @@ h2 {
     height: auto;
     margin-left: 5%;
     display: inline-block
+}
+
+/* media queries for photos */
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+    .image_col {
+        width: 49%;
+    }
+
+    .image_col image {
+        height: 100%;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .image_col {
+        width: 32%;
+    }
+
+    .image_col image {
+        height: 100%;
+    }
+
+    h2 {
+        font-size: x-large;
+    }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+    .image_col {
+        width: 33%;
+    }
+
+    .image_col image {
+        height: auto;
+    }
+
+    h2 {
+        font-size: x-large;
+    }
+}
+
+@media only screen and (min-width: 1201px) {
+    .image_col {
+        width: 33%;
+    }
+
+    .image_col image {
+        height: auto;
+    }
+
+    h2 {
+        font-size: xx-large;
+    }
+    
+    h1 {
+        font-size: large;
+    }
 }
