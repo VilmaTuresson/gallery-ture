@@ -69,24 +69,31 @@ body {
 
 #sub-ul {
     position: absolute;
-    background-color: black;
+    border: 1px solid black;
     width: 100%;
     height: auto;
     padding: 10px;
-
+    opacity: 0;
 }
 
-#sub-ul li a {
-    color: white;
+#sub-ul li .sub {
+    font-size: medium;
+}
+
+#sub-ul li {
+    width: 32%;
     font-size: small;
 }
 
-#dub-ul li {
-    width: 32%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+ul #sub-nav:hover > #sub-ul {
+    visibility: visible;
+    opacity: 1;
+    z-index: 3;
 }
 
+#sub-ul li:hover .sub {
+    color: black;
+}
 
 /* media queries for header */
 
