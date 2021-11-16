@@ -127,7 +127,9 @@ h2 {
     width: 90%;
     height: auto;
     margin-left: 5%;
-    display: inline-block
+    display: inline-block;
+    object-fit: cover;
+
 }
 
 /* publishing form */
