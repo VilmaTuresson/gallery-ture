@@ -15,7 +15,7 @@ The navigation bar is fully responsive and include the following for optimal nav
 - Navigation to the publishing form
 - Categories displayed as a sub menu when hovered over that is connected to all categories of photos
 
-![Navigation Bar](nav-pic.png)
+![nav-pic](https://user-images.githubusercontent.com/89077706/142040735-e38afee7-3a47-4da6-b091-55dde9a3af33.png)
 
 **The Photos**
 
