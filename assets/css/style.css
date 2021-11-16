@@ -146,35 +146,6 @@ h2 {
     padding: 25px;
 }
 
-.form-background {
-    position: relative;
-    width: 80%;
-    margin: 10% 0% 10% 10%; 
-    height: auto;
-    display: block;
-    background-color: #9d8189;
-}
-
-#form-head {
-    margin-left: 0;
-    text-transform: uppercase;
-    font-size: 25px;
-}
-
-.form-p {
-    position: relative;
-    font-size: 20px;
-    font-weight: 300;
-    margin-top: 20px;
-    margin-bottom: 30px;
-    text-transform: capitalize;
-    line-height: 1.3em;
-}
-
-.form-mail {
-    text-transform: none;
-}
-
 .form-label {
     font-size: 15px;
     color: black;
@@ -203,6 +174,52 @@ h2 {
     width: 55px;
     border: 1px solid black;
     border-radius: 8px;
+}
+
+/* contact info */
+
+#text-mail {
+    text-transform: none;
+}
+
+#contact-holder {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 40px;
+    background-color: #cbc0d3;
+}
+
+#hold {
+    padding: 25px;
+}
+
+/* publishing form and contact info */
+
+.text-background {
+    position: relative;
+    width: 80%;
+    margin: 10% 0 10% 10%;
+    height: auto;
+    display: block;
+    background-color: #9d8189;
+}
+
+.text-head {
+    margin-left: 0;
+    text-transform: uppercase;
+    font-size: 25px;
+    
+}
+
+.text-p {
+    position: relative;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    line-height: 1.3em;
 }
 
 /* footer */
