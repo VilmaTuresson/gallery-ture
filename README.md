@@ -41,6 +41,8 @@ The footer is discreetly displayed in black following along the page. It contain
 
 ## Testing
 
+All links both internal and external are connected to the corresponding section or page. The site also works as expected multiple browsers (chrome, firefox, safari).
+
 **HTML**
 
 - No errors or warning were returned when passing through the official W3C validator
