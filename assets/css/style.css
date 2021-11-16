@@ -194,6 +194,17 @@ h2 {
     font-size: 17px;
 }
 
+#button {
+    background-color: #b7a2a8;
+    color: black;
+    font-size: 90%;
+    display: block;
+    height: 40px;
+    width: 55px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
 /* footer */
 
 footer {
