@@ -41,7 +41,7 @@ The footer is discreetly displayed in black following along the page. It contain
 
 ## Testing
 
-All links both internal and external are connected to the corresponding section or page. The site also works as expected multiple browsers (chrome, firefox, safari).
+All links both internal and external are connected to the corresponding section or page. The site also works as expected when tested on diffrent browsers (chrome, firefox, safari).
 
 **HTML**
 
