@@ -7,8 +7,8 @@
 The navigation bar is fully responsive and include the following for optimal navigation around the site.
 
 - The websites name as a logo
-- Navigation to the top of the page
-- Navigation to the publishing form at the bottom of the page
+- Navigation to contact info
+- Navigation to the publishing form
 - Categories displayed as a sub menu when hovered over that is connected to all categories of photos
 
 ![Navigation Bar](nav-pic.png)
