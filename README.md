@@ -1,4 +1,8 @@
 # Ture Gallery
+This website is a collection of pictures that I have taken over the last couple of years. This gallery will be updated in the same manner as a blog and will hopefully be a platform for other photographers to publish their beginners work! 
+
+![responsive-pic](https://user-images.githubusercontent.com/89077706/142040253-8854f9b5-a4ed-468b-a79c-ba7d3f9a872c.png)
+
 
 ## Features
 
