@@ -25,7 +25,7 @@ The photos are structured to fill out a majority of the page and displayed in a 
 
 **The Publishing Form**
 
-In the form, other photographers with an interest in publishing can send a message regarding who they are and what kind of photos they would like to see on the site. It will also contain an email address as info contact.
+In the form, other photographers with an interest in publishing can send a message regarding who they are and what kind of photos they would like to see on the site.
 
 - input field for users full name
 - input field for users email address
