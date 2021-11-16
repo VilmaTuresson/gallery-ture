@@ -21,7 +21,7 @@ The navigation bar is fully responsive and include the following for optimal nav
 
 The photos are structured to fill out a majority of the page and displayed in a way that they are easily viewed with every detail in mind. For every photo there is an alt attribute describing the picture.
 
-![Photo Layout](photo-pic.png)
+![photo-pic](https://user-images.githubusercontent.com/89077706/142040955-93b9f732-f8da-46ff-8c2c-e93c74ebd5ec.png)
 
 **The Publishing Form**
 
