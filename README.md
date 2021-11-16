@@ -37,6 +37,8 @@ In the form, other photographers with an interest in publishing can send a messa
 
 In the contact information there is an email address and a telephone number supplied under a text encouraging the user to reach out if there is any questions or interest in the photos that are published.
 
+![contact-pic](https://user-images.githubusercontent.com/89077706/142041240-41e8ac8d-f465-4096-b1bc-24fabd323727.png)
+
 **The Footer**
 
 The footer is discreetly displayed in black following along the page. It contains clearly displayed links to social media. The links will open in a new tab to maintain focus on the gallery site.
