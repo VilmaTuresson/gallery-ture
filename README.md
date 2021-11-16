@@ -31,13 +31,13 @@ In the form, other photographers with an interest in publishing can send a messa
 - input field for users email address
 - input field for user to describe their work and what kind of photos they would like to publish on the site
 
-![Publishing Form](form-pic.png)
+![pub-pic](https://user-images.githubusercontent.com/89077706/142041193-f7a36319-287e-4b96-b043-bfdb89b0f05e.png)
 
 **The Footer**
 
 The footer is discreetly displayed in black following along the page. It contains clearly displayed links to social media. The links will open in a new tab to maintain focus on the gallery site.
 
-![Publishing Form](footer-pic.png)
+![footer-pic](https://user-images.githubusercontent.com/89077706/142041285-246d816c-81d7-4e63-92b0-0e08249cf416.png)
 
 ## Testing
 
@@ -48,3 +48,5 @@ The footer is discreetly displayed in black following along the page. It contain
 **CSS**
 
 - No errors or warning were returned when passing through the official (Jigsaw) Validator
+
+![lighthouse-test](https://user-images.githubusercontent.com/89077706/142041321-c6f73da8-753c-4718-82c9-0bfbc166253a.png)
