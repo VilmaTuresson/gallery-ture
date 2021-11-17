@@ -110,9 +110,9 @@ h2 {
 
 .image_holder {
     position: relative;
-    width: 100%;
+    width: 90%;
     display: inline-block;
-    margin: 10px 0 10px 0;
+    margin: 10px 0 10px 5%;
 }
 
 .image_col {
@@ -125,7 +125,7 @@ h2 {
 .image {
     position: relative;
     width: 90%;
-    height: auto;
+    height: 350px;
     margin-left: 5%;
     display: inline-block;
     object-fit: cover;
@@ -257,7 +257,7 @@ footer {
         width: 49%;
     }
 
-    .image_col image {
+    .image_col .image {
         height: 100%;
     }
 }
@@ -340,7 +340,7 @@ footer {
     }
 
     .image_col {
-        width: 33%;
+        width: 33.1%;
     }
 
     .image_col image {
