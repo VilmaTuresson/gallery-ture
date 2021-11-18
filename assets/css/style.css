@@ -111,7 +111,7 @@ h2 {
 
 .image_holder {
     position: relative;
-    width: 100%;
+    width: 90%;
     display: inline-block;
     margin: 10px 0 10px 0;
     text-align: center;
@@ -130,6 +130,7 @@ h2 {
     height: auto;
     display: inline-block;
     overflow: hidden;
+    margin-left: 5%;
 }
 
 /* publishing form */
