@@ -1,6 +1,5 @@
 # Ture Gallery
-This website is a collection of pictures that I have taken over the last couple of years. This gallery will be updated in the same manner as a blog and will hopefully be a platform for other photographers to publish their beginners work! 
-
+This website is a collection of pictures that I have taken over the last couple of years. This gallery will be updated in the same manner as a blog and will hopefully be a platform for other photographers to publish their beginners work! Live link to the site [Ture Gallery](https://vilmaturesson.github.io/gallery-ture/)
 ![responsive-pic](https://user-images.githubusercontent.com/89077706/142040253-8854f9b5-a4ed-468b-a79c-ba7d3f9a872c.png)
 
 
@@ -58,3 +57,28 @@ All links both internal and external are connected to the corresponding section 
 - No errors or warning were returned when passing through the official (Jigsaw) Validator
 
 ![lighthouse-test](https://user-images.githubusercontent.com/89077706/142041321-c6f73da8-753c-4718-82c9-0bfbc166253a.png)
+
+## Deployment
+
+This site was deployed with github pages. The exection was as follows 
+
+- Navigate to the setings, trough the repository
+- Click the link under github pages
+- Choose main/master as source and save
+
+The page will then refreash and and a live link to the depolyed site will be presented.
+Here is the deployed site: [Ture Gallery](https://vilmaturesson.github.io/gallery-ture/)
+
+## Credits
+
+**Content**
+
+- No code was taken from other source.
+- Icons on the page where taken from [Font Awsome](https://fontawesome.com/)
+- The fonts on the page where taken from [Google Fonts](https://fonts.google.com/)
+
+**Media**
+
+- All photos on the site are taken by me. 
+
+
