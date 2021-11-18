@@ -46,7 +46,7 @@ The footer is discreetly displayed in black following along the page. It contain
 
 ## Testing
 
-All links both internal and external are connected to the corresponding section or page. The site also works as expected when tested on diffrent browsers (chrome, firefox, safari).
+All links both internal and external are connected to the corresponding section or page. The site also works as expected when tested on diffrent browsers (chrome, firefox, safari) and is fully responsive.
 
 **HTML**
 
@@ -59,6 +59,8 @@ All links both internal and external are connected to the corresponding section 
 - No errors or warning were returned when passing through the official (Jigsaw) Validator
 
 [Validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvilmaturesson.github.io%2Fgallery-ture%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+Light house scores:
 
 ![lighthouse-test](https://user-images.githubusercontent.com/89077706/142041321-c6f73da8-753c-4718-82c9-0bfbc166253a.png)
 
