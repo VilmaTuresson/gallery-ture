@@ -1,6 +1,6 @@
 # Ture Gallery
 This website is a collection of pictures that I have taken over the last couple of years. This gallery will be updated in the same manner as a blog and will hopefully be a platform for other photographers to publish their beginners work! Live link to the site [Ture Gallery](https://vilmaturesson.github.io/gallery-ture/)
-![responsive-pic](https://user-images.githubusercontent.com/89077706/142040253-8854f9b5-a4ed-468b-a79c-ba7d3f9a872c.png)
+![res-pic 2](https://user-images.githubusercontent.com/89077706/142493088-d0d8d750-9db4-49b7-915f-4f0efe9f3e7b.png)
 
 
 ## Features
