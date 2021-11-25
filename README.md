@@ -30,7 +30,9 @@ In the form, other photographers with an interest in publishing can send a messa
 - input field for users email address
 - input field for user to describe their work and what kind of photos they would like to publish on the site
 
-![pub-pic](https://user-images.githubusercontent.com/89077706/142041193-f7a36319-287e-4b96-b043-bfdb89b0f05e.png)
+![pub-pic](https://user-images.githubusercontent.com/89077706/143458232-c6a80fa0-bd0d-4627-9477-a3c96384fbff.png)
+
+(24 kB)
 
 **Contact Information**
 
