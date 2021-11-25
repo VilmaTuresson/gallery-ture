@@ -26,9 +26,9 @@ The photos are structured to fill out a majority of the page and displayed in a 
 
 In the form, other photographers with an interest in publishing can send a message regarding who they are and what kind of photos they would like to see on the site.
 
-- input field for users full name
-- input field for users email address
-- input field for user to describe their work and what kind of photos they would like to publish on the site
+- Input field for users full name
+- Input field for users email address
+- Input field for user to describe their work and what kind of photos they would like to publish on the site
 
 ![pub-pic](https://user-images.githubusercontent.com/89077706/143458232-c6a80fa0-bd0d-4627-9477-a3c96384fbff.png)
 
@@ -42,7 +42,7 @@ In the contact information there is an email address and a telephone number supp
 
 **The Footer**
 
-The footer is discreetly displayed in black following along the page. It contains clearly displayed links to social media. The links will open in a new tab to maintain focus on the gallery site.
+The footer is discreetly displayed in black at the bottom of the page. It contains clearly displayed links to social media. The links will open in a new tab to maintain focus on the gallery site.
 
 ![footer-pic](https://user-images.githubusercontent.com/89077706/142041285-246d816c-81d7-4e63-92b0-0e08249cf416.png)
 
@@ -68,7 +68,7 @@ Light house scores:
 
 ## Deployment
 
-This site was deployed with github pages. The exection was as follows 
+This site was deployed via github pages. The exection was as follows 
 
 - Navigate to the setings, trough the repository
 - Click the link under github pages
@@ -87,6 +87,4 @@ Here is the deployed site: [Ture Gallery](https://vilmaturesson.github.io/galler
 
 **Media**
 
-- All photos on the site are taken by me. 
-
-
+- None of the photos are taken from an external source. 
